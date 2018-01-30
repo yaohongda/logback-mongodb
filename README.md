@@ -1,9 +1,6 @@
 # logback-mongodb：
 
 ### 功能：将json格式的日志输出到mongodb中.
-
-
-
 ```xml
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
